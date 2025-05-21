@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://jac.alexsab.ru',
+	site: 'https://jac-samara.ru',
 	base: "/"
 });
