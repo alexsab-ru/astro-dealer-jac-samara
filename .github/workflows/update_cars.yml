@@ -141,6 +141,7 @@ jobs:
       env:
         DOMAIN: ${{ vars.DOMAIN }}
         XML_URL: ${{ vars.DEALER_PHOTOS_FOR_CARS_AVITO_URL }}
+        DEALER_PHOTOS_FOR_CARS_AVITO_URL: ${{ vars.DEALER_PHOTOS_FOR_CARS_AVITO_URL }}
 
     - name: Get cars data_cars_car XML
       if: ${{ vars.XML_URL_DATA_CARS_CAR }}
