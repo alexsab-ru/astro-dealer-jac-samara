@@ -13,6 +13,12 @@
   },
   {
     "brand": "Jac",
+    "model": "RF8",
+    "price": 4575000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Jac",
     "model": "T9",
     "price": 3369000,
     "benefit": 350000
