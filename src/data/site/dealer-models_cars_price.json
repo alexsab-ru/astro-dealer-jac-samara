@@ -3,24 +3,24 @@
     "brand": "Jac",
     "model": "J7",
     "price": 1594000,
-    "benefit": "600000"
+    "benefit": 600000
   },
   {
     "brand": "Jac",
     "model": "JS6",
     "price": 2064000,
-    "benefit": "815000"
+    "benefit": 815000
   },
   {
     "brand": "Jac",
     "model": "RF8",
     "price": 4500000,
-    "benefit": "375000"
+    "benefit": 375000
   },
   {
     "brand": "Jac",
     "model": "T9",
     "price": 3369000,
-    "benefit": "350000"
+    "benefit": 350000
   }
 ]
