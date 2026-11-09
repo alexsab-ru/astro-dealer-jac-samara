@@ -18,10 +18,10 @@
       <body_type>Минивэн</body_type>
       <description>Автомобиль Jac RF8, Flagship, 2.0 AT (236 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/0/full.webp?v=ab169d9bbbad</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/0/full.webp?v=96229ef0b257</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/1/full.webp?v=40e093588abf</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/2/full.webp?v=1bbd808ea538</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/3/full.webp?v=2878b5e3c9ce</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/3/full.webp?v=9248031d7950</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/4/full.webp?v=0dacfb25194d</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/5/full.webp?v=dd45ced1d17d</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/6/full.webp?v=010b70059e5c</image>
@@ -61,6 +61,7 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/9/full.webp?v=2266e7600de3</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/10/full.webp?v=65f52b53bf73</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/11/full.webp?v=f26698fa6020</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/12/full.webp?v=7ae2576a80b1</image>
       </images>
     </car>
     <car>
@@ -79,12 +80,12 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/0/full.webp?v=ac33f5d0734d</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/0/full.webp?v=57f8eb50c18e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/1/full.webp?v=4a093c10956e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/2/full.webp?v=e41eca559e08</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/3/full.webp?v=037a5d7d11dd</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/4/full.webp?v=1a21220d2911</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/5/full.webp?v=763bba39ee9e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/5/full.webp?v=b98069f22e88</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/6/full.webp?v=11cd08b47f36</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/7/full.webp?v=446aeba4ed93</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/8/full.webp?v=49cf180f84c7</image>
@@ -114,6 +115,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/5/full.webp?v=74b9721b1486</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/6/full.webp?v=c8a0eadc7c7b</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/7/full.webp?v=8f456b3bc41f</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/8/full.webp?v=b9419c012b13</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/9/full.webp?v=23432dfe0b9c</image>
       </images>
     </car>
     <car>
@@ -143,6 +146,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/9/full.webp?v=54ce38be1b85</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/10/full.webp?v=a4a8406f02cd</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/11/full.webp?v=a7ed59bf1236</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/12/full.webp?v=34a0c517c57f</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/13/full.webp?v=f89ea1f5795e</image>
       </images>
     </car>
     <car>
@@ -173,6 +178,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/9/full.webp?v=eb5fe8d7c5f7</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/10/full.webp?v=8af43f923a8a</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/11/full.webp?v=4456455f82f9</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/12/full.webp?v=c7ef0d960e67</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/14/full.webp?v=83fb93062acd</image>
       </images>
     </car>
     <car>
@@ -200,6 +207,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/6/full.webp?v=9498152b9d42</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/7/full.webp?v=fa6933d0cef2</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/8/full.webp?v=19ec3d7182b7</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/9/full.webp?v=2fc2811bf22b</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/10/full.webp?v=4463e37d2a0a</image>
       </images>
     </car>
     <car>
@@ -230,6 +239,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/9/full.webp?v=b59f3ea0bf37</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/10/full.webp?v=2c927825035e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/11/full.webp?v=602e20bd60dd</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/12/full.webp?v=b5d283ab0d7a</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/13/full.webp?v=c6ea1283f3f4</image>
       </images>
     </car>
     <car>
@@ -256,6 +267,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/5/full.webp?v=3bbff071fa5c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/6/full.webp?v=e52af625443b</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/7/full.webp?v=bbd99b679da3</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/8/full.webp?v=9fe4e6a778b1</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/9/full.webp?v=2b9d0cce3e8a</image>
       </images>
     </car>
     <car>
@@ -282,6 +295,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/5/full.webp?v=33940787734b</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/6/full.webp?v=457afcc0b25a</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/7/full.webp?v=6f5613b7418e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/8/full.webp?v=5d1607e6edb3</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/9/full.webp?v=1fd46cf97c3e</image>
       </images>
     </car>
     <car>
@@ -316,6 +331,7 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007944/13/full.webp?v=8cc8f909d5c9</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007944/14/full.webp?v=1735950da8b2</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007944/15/full.webp?v=c3cca0c50722</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007944/16/full.webp?v=7c0facca1a9a</image>
       </images>
     </car>
     <car>
@@ -342,6 +358,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/5/full.webp?v=5dc88cc6304a</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/6/full.webp?v=578a53485d8f</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/7/full.webp?v=06e953e424f0</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/8/full.webp?v=427051dfcd6f</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/9/full.webp?v=7e06d5598e32</image>
       </images>
     </car>
     <car>
@@ -369,6 +387,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/6/full.webp?v=10e63b8367f4</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/7/full.webp?v=6c127bdabdb5</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/8/full.webp?v=c3df0988cf7c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/9/full.webp?v=abdd80d8a73b</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/10/full.webp?v=65c6e7b9698f</image>
       </images>
     </car>
     <car>
@@ -396,6 +416,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/7/full.webp?v=d7f603db76fc</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/8/full.webp?v=ab525a55982e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/9/full.webp?v=97410b24b969</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/10/full.webp?v=1d443ef3d390</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/11/full.webp?v=1c809dfa926e</image>
       </images>
     </car>
   </cars>
