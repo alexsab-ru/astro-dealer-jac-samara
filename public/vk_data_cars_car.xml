@@ -18,8 +18,8 @@
       <body_type>Минивэн</body_type>
       <description>Автомобиль Jac RF8, Flagship, 2.0 AT (236 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/0/full.webp?v=ab169d9bbbad</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/1/full.webp?v=40e093588abf</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/0/full.webp?v=96229ef0b257</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/1/full.webp?v=0b6163dca430</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/2/full.webp?v=1bbd808ea538</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/3/full.webp?v=2878b5e3c9ce</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XS0025807/4/full.webp?v=0dacfb25194d</image>
@@ -49,10 +49,10 @@
       <body_type>Минивэн</body_type>
       <description>Автомобиль Jac RF8, Flagship, 2.0 AT (236 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/0/full.webp?v=bc3e5c1ada1e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/0/full.webp?v=92fde2996e76</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/1/full.webp?v=4be0320c856c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/2/full.webp?v=e77b4403d2c4</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/3/full.webp?v=88b5b86039b4</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/3/full.webp?v=7160cb594669</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/4/full.webp?v=bff38ea38539</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/5/full.webp?v=18773b84093c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/EBEMARF8XT0027435/6/full.webp?v=2ab315edaf88</image>
@@ -81,8 +81,8 @@
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/0/full.webp?v=57f8eb50c18e</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/1/full.webp?v=4c9bad2530b9</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/2/full.webp?v=e41eca559e08</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/1/full.webp?v=4a093c10956e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/2/full.webp?v=65f93bea6a95</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/3/full.webp?v=037a5d7d11dd</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/4/full.webp?v=1a21220d2911</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006748/5/full.webp?v=b98069f22e88</image>
@@ -107,8 +107,37 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/0/full.webp?v=431f047baec1</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/1/full.webp?v=b402c70befb2</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/0/full.webp?v=dd7b7c4adaf4</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/1/full.webp?v=a0010571aeca</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/2/full.webp?v=0b89f63fea87</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/3/full.webp?v=cda2d23953d8</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/4/full.webp?v=a54123e03774</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/5/full.webp?v=74b9721b1486</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/6/full.webp?v=c8a0eadc7c7b</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/7/full.webp?v=8f456b3bc41f</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/8/full.webp?v=b9419c012b13</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/9/full.webp?v=23432dfe0b9c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/10/full.webp?v=ab0d5c647422</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/11/full.webp?v=69bd0ea8e51d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>RUNSJAP39TU006841</unique_id>
+      <url>https://jac-samara.ru/cars/jac-t9-20-at-224-hp-4wd-explore-gray-2026/</url>
+      <mark_id>Jac</mark_id>
+      <folder_id>T9</folder_id>
+      <year>2026</year>
+      <vin>RUNSJAP39TU006841</vin>
+      <price>3719000</price>
+      <sale_price>3419000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/0/full.webp?v=dd7b7c4adaf4</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/1/full.webp?v=a0010571aeca</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/2/full.webp?v=0b89f63fea87</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/3/full.webp?v=cda2d23953d8</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/4/full.webp?v=a54123e03774</image>
@@ -137,8 +166,8 @@
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/0/full.webp?v=2113b6538a22</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/1/full.webp?v=d9e008f3a2ee</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/2/full.webp?v=af1f29dce1cf</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/1/full.webp?v=1b8ad5292a55</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/2/full.webp?v=64aeb5ffc2ba</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/3/full.webp?v=adb0b60f9468</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/4/full.webp?v=b6d0983651f7</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006848/5/full.webp?v=d84c2b112d19</image>
@@ -170,9 +199,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Urban, Urban 2.0 AT (224 л.с.) 4WD, 2026 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=6f33ea673cdc</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=a91f9845b593</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/1/full.webp?v=fe1786a1bb7c</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/2/full.webp?v=a8d65ed493eb</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/2/full.webp?v=67057749d8f6</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/3/full.webp?v=582b1e82ce1c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/4/full.webp?v=4609bd991b6c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/5/full.webp?v=06ec95567cbe</image>
@@ -204,8 +233,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/0/full.webp?v=473243a9f2ec</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/1/full.webp?v=a2a2367b4959</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/0/full.webp?v=e0e2bc5a025a</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/1/full.webp?v=a9cfb4ff4aaf</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/2/full.webp?v=2cd2b624ffa5</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/3/full.webp?v=176ec8a1c2b7</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007626/4/full.webp?v=8b9684b79f5e</image>
@@ -233,10 +262,10 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/0/full.webp?v=99fd72024269</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/0/full.webp?v=6cfe65487679</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/1/full.webp?v=d82d7a642f4c</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/2/full.webp?v=a9bc54ef156f</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/3/full.webp?v=3ef6acd59a03</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/3/full.webp?v=17aa75386a78</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/4/full.webp?v=134aa3b08f59</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/5/full.webp?v=9dbc9c519ed3</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007627/6/full.webp?v=618c3ddf04b6</image>
@@ -267,9 +296,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/0/full.webp?v=2058db28a822</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/0/full.webp?v=02f2565abad3</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/1/full.webp?v=745920ad840d</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/2/full.webp?v=1deaa6f55d65</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/2/full.webp?v=bd1bfac49b8e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/3/full.webp?v=ab014b648ea7</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/4/full.webp?v=a66782fb4039</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007628/5/full.webp?v=3bbff071fa5c</image>
@@ -295,10 +324,10 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/0/full.webp?v=dd9a437cd54c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/0/full.webp?v=2576fea3600b</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/1/full.webp?v=02d72b84a3a9</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/2/full.webp?v=d5bbda5954a6</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/3/full.webp?v=92b2c23598ea</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/3/full.webp?v=50755bd31368</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/4/full.webp?v=5c6507cd7955</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/5/full.webp?v=33940787734b</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/6/full.webp?v=457afcc0b25a</image>
@@ -372,6 +401,8 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/9/full.webp?v=7e06d5598e32</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/10/full.webp?v=9f8800ff5306</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/11/full.webp?v=f2bcf53751f1</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/12/full.webp?v=86359ee4203e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007960/13/full.webp?v=65ff33cc923a</image>
       </images>
     </car>
     <car>
@@ -391,8 +422,8 @@
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/0/full.webp?v=9b62aa32858f</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/1/full.webp?v=08af78465f55</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/2/full.webp?v=f17c69577770</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/1/full.webp?v=382b2fa41760</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/2/full.webp?v=3f3284c306b3</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/3/full.webp?v=3e38d3f94de1</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/4/full.webp?v=5b3733a4c096</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008018/5/full.webp?v=dcc55a3b418b</image>
@@ -421,8 +452,8 @@
       <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/0/full.webp?v=a78bbdb157df</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/1/full.webp?v=93cf8987b292</image>
-        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/2/full.webp?v=6897a065485e</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/1/full.webp?v=ccf8356e05d8</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/2/full.webp?v=7c015396b9f7</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/3/full.webp?v=e30fe6329884</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/4/full.webp?v=92c837fbf72d</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/5/full.webp?v=0c52303cd014</image>
@@ -434,6 +465,40 @@
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/11/full.webp?v=1c809dfa926e</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/12/full.webp?v=f96eca3330a9</image>
         <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU008077/13/full.webp?v=4f9e682963d4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>RUNSJAP39TU009239</unique_id>
+      <url>https://jac-samara.ru/cars/jac-t9-urban-20-at-224-hp-4wd-urban-silver-2026/</url>
+      <mark_id>Jac</mark_id>
+      <folder_id>T9</folder_id>
+      <year>2026</year>
+      <vin>RUNSJAP39TU009239</vin>
+      <price>3789000</price>
+      <sale_price>3789000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jac T9, Urban, Urban 2.0 AT (224 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=a91f9845b593</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/1/full.webp?v=fe1786a1bb7c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/2/full.webp?v=67057749d8f6</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/3/full.webp?v=582b1e82ce1c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/4/full.webp?v=4609bd991b6c</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/5/full.webp?v=06ec95567cbe</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/6/full.webp?v=0699ece374d4</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/7/full.webp?v=09024be2f7a9</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/8/full.webp?v=cdca39b065f1</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/9/full.webp?v=eb5fe8d7c5f7</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/10/full.webp?v=8af43f923a8a</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/11/full.webp?v=4456455f82f9</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/12/full.webp?v=c7ef0d960e67</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/13/full.webp?v=b0c720a2a3b4</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/14/full.webp?v=83fb93062acd</image>
+        <image>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/15/full.webp?v=c54723da891a</image>
       </images>
     </car>
   </cars>
