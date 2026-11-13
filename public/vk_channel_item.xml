@@ -73,6 +73,52 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>RUNSJAP39TU006792</id>
+    <link>https://jac-samara.ru/cars/jac-t9-20-at-224-hp-4wd-explore-silver-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Explore 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006792/0/full.webp?v=5946674dfc26</image_link>
+    <price>3719000 RUB</price>
+    <sale_price>3419000 RUB</sale_price>
+    <min_price>3419000 RUB</min_price>
+    <max_price>3719000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серебристый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU006792</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>RUNSJAP39TU006835</id>
+    <link>https://jac-samara.ru/cars/jac-t9-20-at-224-hp-4wd-explore-gray-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Explore 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006835/0/full.webp?v=2b5e0827290d</image_link>
+    <price>3719000 RUB</price>
+    <sale_price>3419000 RUB</sale_price>
+    <min_price>3419000 RUB</min_price>
+    <max_price>3719000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Темно-Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU006835</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>RUNSJAP39TU006838</id>
     <link>https://jac-samara.ru/cars/jac-t9-20-at-224-hp-4wd-explore-gray-2026/</link>
     <brand>Jac</brand>
@@ -102,7 +148,7 @@
     <model>T9</model>
     <year>2026</year>
     <title>Jac T9 Explore 2026</title>
-    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006838/0/full.webp?v=dd7b7c4adaf4</image_link>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006841/0/full.webp?v=3614d41128dd</image_link>
     <price>3719000 RUB</price>
     <sale_price>3419000 RUB</sale_price>
     <min_price>3419000 RUB</min_price>
@@ -142,13 +188,36 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>RUNSJAP39TU006872</id>
+    <link>https://jac-samara.ru/cars/jac-t9-20-at-224-hp-4wd-explore-blue-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Explore 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU006872/0/full.webp?v=e5f75f8bbdbb</image_link>
+    <price>3719000 RUB</price>
+    <sale_price>3419000 RUB</sale_price>
+    <min_price>3419000 RUB</min_price>
+    <max_price>3719000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Explore, 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Темно-синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU006872</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>RUNSJAP39TU007429</id>
     <link>https://jac-samara.ru/cars/jac-t9-urban-20-at-224-hp-4wd-urban-silver-2026/</link>
     <brand>Jac</brand>
     <model>T9</model>
     <year>2026</year>
     <title>Jac T9 Urban 2026</title>
-    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=a91f9845b593</image_link>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=6f33ea673cdc</image_link>
     <price>3759000 RUB</price>
     <sale_price>3459000 RUB</sale_price>
     <min_price>3459000 RUB</min_price>
@@ -240,7 +309,7 @@
     <model>T9</model>
     <year>2026</year>
     <title>Jac T9 Explore 2026</title>
-    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/0/full.webp?v=2576fea3600b</image_link>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007642/0/full.webp?v=dd9a437cd54c</image_link>
     <price>3719000 RUB</price>
     <sale_price>3419000 RUB</sale_price>
     <min_price>3419000 RUB</min_price>
@@ -355,7 +424,7 @@
     <model>T9</model>
     <year>2026</year>
     <title>Jac T9 Urban 2026</title>
-    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU007429/0/full.webp?v=a91f9845b593</image_link>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU009239/0/full.webp?v=652b4ee6edd3</image_link>
     <price>3789000 RUB</price>
     <sale_price>3789000 RUB</sale_price>
     <min_price>3789000 RUB</min_price>
@@ -368,6 +437,98 @@
       <unit>KM</unit>
     </mileage>
     <vin>RUNSJAP39TU009239</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>RUNSJAP39TU010006</id>
+    <link>https://jac-samara.ru/cars/jac-t9-urban-20-at-224-hp-4wd-urban-gray-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Urban 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU010006/0/full.webp?v=cdc049231137</image_link>
+    <price>3789000 RUB</price>
+    <sale_price>3789000 RUB</sale_price>
+    <min_price>3789000 RUB</min_price>
+    <max_price>3789000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Urban, Urban 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Темно-серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU010006</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>RUNSJAP39TU010382</id>
+    <link>https://jac-samara.ru/cars/jac-t9-urban-20-at-224-hp-4wd-urban-black-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Urban 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU010382/0/full.webp?v=04abd5f906e5</image_link>
+    <price>3789000 RUB</price>
+    <sale_price>3789000 RUB</sale_price>
+    <min_price>3789000 RUB</min_price>
+    <max_price>3789000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Urban, Urban 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU010382</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>RUNSJAP39TU010425</id>
+    <link>https://jac-samara.ru/cars/jac-t9-urban-20-at-224-hp-4wd-urban-white-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Urban 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAP39TU010425/0/full.webp?v=7ff90f89aeee</image_link>
+    <price>3789000 RUB</price>
+    <sale_price>3789000 RUB</sale_price>
+    <min_price>3789000 RUB</min_price>
+    <max_price>3789000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Urban, Urban 2.0 AT (224 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAP39TU010425</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>RUNSJAPE9TU008722</id>
+    <link>https://jac-samara.ru/cars/jac-t9-20d-at-168-hp-4wd-explore-blue-2026/</link>
+    <brand>Jac</brand>
+    <model>T9</model>
+    <year>2026</year>
+    <title>Jac T9 Explore 2026</title>
+    <image_link>https://img.upspace.ru/cars/jac-samara.ru/new/RUNSJAPE9TU008722/0/full.webp?v=ce2c1fac437f</image_link>
+    <price>3819000 RUB</price>
+    <sale_price>3719000 RUB</sale_price>
+    <min_price>3719000 RUB</min_price>
+    <max_price>3819000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Jac T9, Explore, 2.0d AT (168 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Темно-синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>RUNSJAPE9TU008722</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
